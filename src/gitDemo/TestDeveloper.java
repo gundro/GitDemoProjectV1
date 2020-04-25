@@ -15,7 +15,8 @@ public class TestDeveloper {
 	public static void main(String[] args) {
 		String hungry="yes";
 		
-		if("yes" == hungry)
+		//Adding one more condition below as suggested by Lead
+		if("yes" == hungry || "y" == hungry || "Y" == hungry)
 		{
 			System.out.println("Eat Something");
 		}
