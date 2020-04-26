@@ -5,7 +5,7 @@ package gitDemo;
 
 /**
  * @author ronithrajgund
- *Change added for branch B
+ * Change added for branch AB
  */
 public class TestDeveloper {
 
